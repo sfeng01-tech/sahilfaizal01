@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilfaizal01" alt="sahilfaizal01" /></a> </p>
 
-- 🔭 I’m currently working as a **Technical Program Manager Intern** at AMD
-
 - 🌱 I’m currently learning **Generative AI**
 
 - 👯 I’m looking to collaborate on **Data Science, Software Engineering, and Machine Learning Projects**
